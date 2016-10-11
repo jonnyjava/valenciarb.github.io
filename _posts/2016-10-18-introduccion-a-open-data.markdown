@@ -1,6 +1,6 @@
 ---
 date: 2016-10-18 19:00
-title: "Introducción a los datos abiertos"
+title: "Introducción a Open Data"
 ---
 
 Todos generamos datos cada día, desde muy diversas fuentes: los móviles, los sensores, las instituciones públicas, las empresas, el transporte público... Muchas instituciones disponen de portales de datos abiertos donde es posible descargar y reutilizar datos históricos o en tiempo real.
