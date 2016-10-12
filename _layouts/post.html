@@ -72,6 +72,15 @@
           {{ content }}
         </section>
       </div>
+
+      {% if page.where %}
+        <h2 class="centered orange scream margin_bottom_10">Localización: {{ page.where }}</h2>
+
+        <section class="full_box home">
+          {% include {{ page.where | slugify }}.html %}
+          <br />
+        </section>
+      {% endif %}
     </div>
 
     <footer class="clearfix">

@@ -1,6 +1,7 @@
 ---
 date: 2016-09-27 19:00
 title: "Breaking the rules"
+where: GeeksHubs
 ---
 
 En nuestro día a día como programadores, nos encontramos con muchas reglas, convenciones o buenas prácticas comúnmente aceptadas:
