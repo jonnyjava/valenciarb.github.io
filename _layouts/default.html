@@ -83,7 +83,7 @@
       <section class="last">
         <h3>Agradecimientos</h3>
         <p>
-          <a class="ir block flywire" target="_blank" href="http://www.flywire.com" title="Flywire | International payments made easy">Flywire</a>
+          {% include {{ site.posts.first.where | slugify }}_logo.html %}
           <a class="ir block iukanet" target="_blank" href="http://www.iukanet.com/" title="Iukanet | Soluciones Cloud Hosting en Valencia">Iukanet</a>
         </p>
       </section>

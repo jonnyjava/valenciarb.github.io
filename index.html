@@ -45,10 +45,10 @@ title: "Valencia.rb - Grupo local de usuarios de Ruby en Valencia"
 
       {% endif %}
 
-      <h2 class="centered orange scream margin_bottom_10">Localización</h2>
+      <h2 class="centered orange scream margin_bottom_10">Localización: {{ post.where }}</h2>
 
       <section class="full_box home">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6159.81604994511!2d-0.36670279949171986!3d39.47140649959089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6048b0d84869f5%3A0x83d3ec01c276eea8!2sFlywire!5e0!3m2!1sen!2ses!4v1475488339149" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        {% include {{ post.where | slugify }}_map.html %}
         <br />
       </section>
 
