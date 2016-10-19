@@ -1,0 +1,7 @@
+valenciarb:
+  build: .
+  ports:
+    - 4569:4569
+  volumes:
+    - .:/valenciarb
+  command: bundle exec jekyll serve -H 0.0.0.0 --port 4569 -w

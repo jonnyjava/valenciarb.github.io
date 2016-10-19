@@ -1,8 +1,8 @@
 valenciarb.github.io
 ====================
 
-Valencia.rb site: [http://valenciarb.github.io](http://valenciarb.github.io)  
-Googlegroups forum: [https://groups.google.com/forum/#!forum/valencia-rb](https://groups.google.com/forum/#!forum/valencia-rb)  
+Valencia.rb site: [http://valenciarb.github.io](http://valenciarb.github.io)
+Googlegroups forum: [https://groups.google.com/forum/#!forum/valencia-rb](https://groups.google.com/forum/#!forum/valencia-rb)
 Twitter handle: [https://twitter.com/valenciarb](https://twitter.com/valenciarb)
 Join the [ValenciaDevs slack](http://valencia-devs.herokuapp.com/) and find us on the **#valenciarb** channel
 
@@ -19,6 +19,15 @@ terminal:
 * `bundle exec jekyll serve --watch`
 
 The site should then be available on [http://127.0.0.1:4000](http://127.0.0.1:4000)
+
+Setup with Docker
+=================
+
+* `git clone https://github.com/valenciarb/valenciarb.github.io.git`
+* `cd valenciarb.github.io`
+* `docker-compose up --build`
+
+The site now should be available on [http://127.0.0.1:4569](http://127.0.0.1:4569)
 
 Create an event
 ===============
