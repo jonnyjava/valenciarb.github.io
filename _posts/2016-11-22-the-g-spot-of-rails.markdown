@@ -1,5 +1,5 @@
 ---
-date: 2016-11-15 19:00
+date: 2016-11-22 19:00
 title: "The G spot of Rails"
 location: Flywire
 ---
