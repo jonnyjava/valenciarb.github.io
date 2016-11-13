@@ -1,6 +1,6 @@
 ---
 date: 2015-01-20 19:00
-title: "Ruby beers"
+title: "Ruby Beers"
 ---
 
 Para el primer encuentro del año hemos decido quedar para tomar unas cervezas y charlar sobre los temas que nos apetecería encontrar en las próximas reuniones de Valencia.rb.

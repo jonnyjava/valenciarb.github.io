@@ -7,4 +7,7 @@ De todo el increíble ecosistema que se está creando alrededor de Docker, este 
 
 Veremos como aplicando una capa de abstracción sobre Docker, utilizando herramientas como AZK o Compose, nos permitirán centrarnos rápidamente en lo que más nos gusta a los desarrolladores, desarrollar.
 
-([Vicente Pons ](https://twitter.com/gponsu)) nos contará su experiencia con este tipo de herramientas y a través de ejemplos veremos como configurar nuestros proyectos para aprovecharnos de las ventajas que nos ofrecen.
+[Vicente Pons](https://twitter.com/gponsu) nos contará su experiencia con este tipo de herramientas y a través de ejemplos veremos como configurar nuestros proyectos para aprovecharnos de las ventajas que nos ofrecen.
+
+[Streaming »](https://www.youtube.com/watch?v=0SwF3qBV7Zc)
+

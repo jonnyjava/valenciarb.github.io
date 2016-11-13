@@ -4,9 +4,9 @@ title: "Hunting memory ghosts"
 location: Flywire
 ---
 
-¿Alguna vez te has quedado sin memoria porque tu aplicación consume más y más?
+¿Alguna vez te has quedado sin memoria porque tu aplicación consume más y más? Eso huele a una fuga de memoria, en tu código o en alguna de las gemas que utilizas...
 
-En esta charla [Jose Luis](https://twitter.com/josacar) nos introducirá algunas técnicas básicas para depurar fugas de memoria en aplicaciones escritas en ruby corriendo sobre MRI.
+En esta charla, [José Luis Salas](https://twitter.com/josacar), SRE en [Flywire](https://www.flywire.com), nos introducirá algunas técnicas básicas para depurar fugas de memoria en aplicaciones escritas en Ruby corriendo sobre MRI.
 
-[Slides »](https://speakerdeck.com/josacar/hunting-memory-ghosts)
+[Slides »](https://speakerdeck.com/josacar/hunting-memory-ghosts)  
 [Video »](https://youtu.be/klYySvqPkr8)

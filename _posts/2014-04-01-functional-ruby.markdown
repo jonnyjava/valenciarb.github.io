@@ -9,7 +9,7 @@ Tradicionalmente utilizados en el ámbito académico, los leguajes de programaci
 
 Ruby, sin ser un lenguaje puramente funcional, posee varias características que nos permiten trabajar con él casi como si lo fuera.
 
-Nuestro compañero Daniel Pecos ([@danielpecos](https://twitter.com/danielpecos)) nos hará una pequeña introducción a los principios básicos de la programación funcional y veremos algunos ejemplos de código donde compararemos las soluciones a un mismo problema desde el punto de vista de la [OOP](http://en.wikipedia.org/wiki/Object-oriented_programming) y desde la [FP](http://en.wikipedia.org/wiki/Functional_programming).
+Nuestro compañero [Daniel Pecos](https://twitter.com/danielpecos) nos hará una pequeña introducción a los principios básicos de la programación funcional y veremos algunos ejemplos de código donde compararemos las soluciones a un mismo problema desde el punto de vista de la [OOP](http://en.wikipedia.org/wiki/Object-oriented_programming) y desde la [FP](http://en.wikipedia.org/wiki/Functional_programming).
 
 [Slides »](http://www.slideshare.net/dpecos/20140401-oopfp-presentacion-33034962)  
 [Github repo »](https://github.com/valenciarb/functional-programming)

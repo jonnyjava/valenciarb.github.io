@@ -7,7 +7,7 @@ sponsor:
   url: http://www.peertransfer.com
 ---
 
-En la última reunión del año, Xavi Gost ([@XaV1uzz](https://twitter.com/xav1uzz)) nos mostrará en riguroso playback una implementación del juego de la vida de Conway.
+En la última reunión del año, [Xavi Gost](https://twitter.com/xav1uzz) nos mostrará en riguroso playback una implementación del juego de la vida de Conway.
 
 Siempre en TDD, iremos aplicando refactor tras refactor hasta dejarla muy SOLIDa y después pondremos a prueba su SOLIDez con la ayuda del público.
 

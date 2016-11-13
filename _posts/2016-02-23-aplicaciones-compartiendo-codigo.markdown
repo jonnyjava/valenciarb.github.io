@@ -14,6 +14,6 @@ En [Rankia](http://www.rankia.com) y en [Verema](http://www.verema.com) se han
 encontrado en esa tesitura y han ido probando diferentes soluciones para
 afrontar el problema.
 
-En esta charla, Fernando Calatayud ([@fj2c](https://twitter.com/fj2c))
+En esta charla, [Fernando Calatayud](https://twitter.com/fj2c)
 nos contarará lo que les ha funcionado, lo que no, y los pros y los
 contras de la solución que han adoptado finalmente.
