@@ -13,3 +13,6 @@ En esta charla, [Fernando Calatayud](https://www.linkedin.com/in/fernan2) ([twit
 Si has tocado poco o nada de Ruby, pero tienes cierta curiosidad por saber qué puede aportarte a ti este lenguaje, esta charla es para ti. Probablemente no has venido nunca a las charlas de Valencia.rb, pero somos gente maja y te va a gustar, anímate!
 
 ;-)
+
+[Slides »](https://www.slideshare.net/fernan2/introduccion-a-ruby)  
+[Video »](https://storage.googleapis.com/segmento-geek2/recursosGratuitos/02Charlas/7d736cbff0f4f46db2e8db0f5491013d.mp4)
