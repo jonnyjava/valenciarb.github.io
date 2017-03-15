@@ -9,4 +9,4 @@ undefined: true
 
 ¿Hay algún tema en concreto que siempre has querido comentar pero nunca has encontrado la oportunidad?
 
-Envíanos un correo a [valencia-rb@googlegroups.com](mailto:valencia-rb@googlegroups.com) o contáctanos por [twitter](https://twitter.com/valenciarb).
+Envíanos un correo a [valencia-rb@googlegroups.com](mailto:valencia-rb@googlegroups.com), contáctanos por [twitter](https://twitter.com/valenciarb) o habla con nosotros en el canal de [#valenciarb](http://slack.vlctechhub.org/).
