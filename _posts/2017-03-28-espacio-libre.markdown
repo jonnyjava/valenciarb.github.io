@@ -1,6 +1,7 @@
 ---
-date: 2016-10-18 19:00
+date: 2017-03-28 19:00
 title: "Espacio libre"
+location: Flywire
 undefined: true
 ---
 
