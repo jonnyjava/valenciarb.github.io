@@ -4,6 +4,8 @@ title: "Rails 101"
 location: Flywire
 ---
 
+<h3>Esta charla se ha aplazado al martes 27 junio 2017, 19:00h</h3>
+
 En esta ocasión [@satanin](https://twitter.com/satanin) y [@zerolive](https://twitter.com/zerolive) van a darnos un pequeño curso introductorio a Rails.
 
 ¡Habrá mucha parte práctica así que acuérdate de llevar tu portátil!
