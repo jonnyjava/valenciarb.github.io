@@ -1,5 +1,5 @@
 ---
-date: 2017-06-27 19:00
+date: 2017-06-20 19:00
 title: "Rails 101"
 location: Flywire
 ---
