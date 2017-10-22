@@ -48,7 +48,7 @@ If you want to olso remove the created images and volumes, type this instead:
 $ docker-compose down --rmi all --volumes
 ```
 
-The site should be available on [http://localhost:4569](http://localhost:4569)
+The site should be available on [http://localhost:4000](http://localhost:4000)
 
 Add an event
 ===============

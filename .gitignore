@@ -5,3 +5,4 @@
 /vendor/bundle/
 /pictures/
 .DS_Store
+.jekyll-metadata

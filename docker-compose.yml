@@ -2,8 +2,8 @@ version: '2'
 services:
   valenciarb:
     build: .
-    command: bundle exec jekyll serve -H 0.0.0.0 --port 4569 -w
+    command: bundle exec jekyll serve --incremental -H 0.0.0.0 --port 4000 -w
     ports:
-      - 4569:4569
+      - 4000:4000
     volumes:
       - .:/valenciarb

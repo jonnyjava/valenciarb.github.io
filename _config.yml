@@ -1,5 +1,5 @@
 name: Valencia.rb
-exclude: [vendor, Dockerfile, docker-compose.yml]
+exclude: [.bundle, vendor, Dockerfile, docker-compose.yml]
 future: true
 permalink: date
 defaults:
