@@ -287,6 +287,14 @@ a.orange_button:hover {
     margin: 0 auto;
   }
 
+  a.coverwallet {
+    background: url(../img/coverwallet_logo.png) no-repeat top left;
+    width: 90px;
+    height: 90px;
+    background-size: cover;
+    margin: 0 auto;
+  }
+
 /* ===== media with different viewport classes ============================================ */
 @media only screen and (min-width: 35em) {
   /* Style adjustments for viewports that meet the condition */
@@ -504,6 +512,14 @@ a.orange_button:hover {
       float: right;
     }
 
+    a.coverwallet {
+      background: url(../img/coverwallet_logo.png) no-repeat top left;
+      width: 90px;
+      height: 90px;
+      background-size: cover;
+      float: right;
+    }
+
 } /* min-width: 768px */
 
 /* Used to alter styles for screens at least 1024px wide. */
@@ -664,6 +680,14 @@ a.orange_button:hover {
 
   a.onestic {
     background: url(../img/onestic_logo.png) no-repeat top left;
+    width: 90px;
+    height: 90px;
+    background-size: cover;
+    float: right;
+  }
+
+  a.coverwallet {
+    background: url(../img/coverwallet_logo.png) no-repeat top left;
     width: 90px;
     height: 90px;
     background-size: cover;
