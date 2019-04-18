@@ -13,3 +13,5 @@ Más que Clean Code es casi "La buena educación del programador": un conjunto d
 En una charla dividida en 4 partes intentaremos entender qué significa realmente "Clean code" y por qué importa. Exploraremos un conjunto de buenos hábitos a la hora de escribir nuestro código y de estructurarlo y finalmente iremos más allá del editor de código y veremos cómo esto del Clean code es una filosofía que abarca todas las herramientas de creación de un producto software.
 
 Soy Jonnyjava y soy Backend Developer en [CoverWallet](https://www.coverwallet.com/jobs/tech).
+
+Lugar: Sala Innova, Cubo Rojo de la Ciudad Politécnica de la Innovación (CPI)
